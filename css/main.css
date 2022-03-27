@@ -1,0 +1,23 @@
+.card{
+    width: 500px;
+    padding: 10px;
+    margin: 4rem auto;
+}
+#screen{
+    width: 100%;
+    text-align: right;
+    padding: 2rem 1rem;
+    font-size: 25px;
+    border: 1px solid #909090;
+}
+.form-group{
+    display: flex;
+    box-sizing: border-box;
+}
+.btn{
+    width: 25%;
+    margin: 0;
+    border-radius: 0;
+    border: 1px solid #909090;
+    padding: 1rem;
+}
